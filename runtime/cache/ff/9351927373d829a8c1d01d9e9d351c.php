@@ -1,0 +1,4 @@
+<?php
+//000000000000
+ exit();?>
+a:2:{i:0;a:11:{s:2:"id";i:35;s:4:"type";s:12:"合作企业";s:4:"name";s:11:"cooperation";s:5:"title";s:12:"世纪鼎利";s:5:"image";s:54:"/uploads/20200513/97b54fffb2dbea9c322875a47c4f37e9.jpg";s:3:"url";s:0:"";s:7:"content";s:0:"";s:5:"weigh";i:35;s:10:"createtime";i:1589361361;s:10:"updatetime";i:1589361361;s:6:"status";s:6:"normal";}i:1;a:11:{s:2:"id";i:36;s:4:"type";s:12:"合作企业";s:4:"name";s:11:"cooperation";s:5:"title";s:12:"世纪鼎利";s:5:"image";s:54:"/uploads/20200513/97b54fffb2dbea9c322875a47c4f37e9.jpg";s:3:"url";s:0:"";s:7:"content";s:11:"<p><br></p>";s:5:"weigh";i:36;s:10:"createtime";i:1589361400;s:10:"updatetime";i:1589361400;s:6:"status";s:6:"normal";}}
